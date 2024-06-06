@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/subham-rakshit-6b689615b/">View My LinkedIn Profile</a> 
 github:
   is_project_page: true  # Set to false if this is a user/organization page
-  repository_url: https://github.com/your-username/your-repo
+  repository_url: https://github.com/SubhamRakshit97/My_DS_Portfolio
   owner_url: https://github.com/SubhamRakshit97
   owner_name: Subham Rakshit
 show_downloads: true
